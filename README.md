@@ -1,7 +1,9 @@
-# Loan-Prediction-ML
-Using Machine Learning techniques and models, I predict the eligibility of bank customers for loan approval. This project has solid use case in banking, banks can automate the loan application procedure using a model like this, that way, customers fill up certain details and the model automatically calculates their eligibility. In this project, I have used various techniques.
+# :bank: Loan-Prediction-ML
+Using Machine Learning techniques and models, I predict the eligibility of bank customers for loan approval. <br />
+This project has solid use case in banking, banks can automate the loan application procedure using a model like this, that way, customers provide their details and the model automatically calculates their eligibility for a loan. <br />
 
-Techniques used in the project include: 
+In this project, I have used various techniques, such as;
+
 1. Data visualization using Seaborn & Matplotlib, samples below;
 
 ![Screenshot (68)](https://user-images.githubusercontent.com/64503362/156834503-c8da5861-23ba-4e22-8447-c123a93da33b.png)
